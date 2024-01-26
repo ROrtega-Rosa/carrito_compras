@@ -1,0 +1,16 @@
+.box{
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow:0 0 1rem #000025;
+  }
+  
+  
+  .grid-responsive{
+  
+    display:grid;
+    grid-template-columns: repeat(2,auto);
+    gap: 1rem;
+  }
+  
+
+
