@@ -7,4 +7,5 @@ Rosa, estudiante de desarrollo web
 ## Descripción
 
 Se trata de un ejercicio donde se aprende a realizar 
-las acciones básicas para hacer un carro de la compra (CRUD)
+las acciones básicas para hacer un carro de la compra (CRUD).
+Para ello se emplea react. js y sus hooks useState y useReducer
